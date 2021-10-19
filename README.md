@@ -2,6 +2,8 @@
 ### Ready-to-use Tailwind CSS blocks
 ##### Features
 
+https://tailblocks.cc
+
 * 60+ Blocks
 * Responsive
 * Dark Mode Support
