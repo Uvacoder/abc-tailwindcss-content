@@ -29,6 +29,3 @@ To use the project:
 1. 🎉
 
 
-## License
-
-Code copyright 2020 Mert Cukuren. Code released under [the MIT license](https://github.com/mertjf/tailblocks/blob/master/LICENSE).
