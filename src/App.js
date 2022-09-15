@@ -400,7 +400,7 @@ class App extends Component {
             </div>
           </div>
         </main>
-        <a href="https://github.com/mertJF/tailblocks" className="github" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/uvacoder/abc-tailwindcss-content" className="github" target="_blank" rel="noopener noreferrer">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
             <path
               fill="currentColor"
