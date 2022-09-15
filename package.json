@@ -1,6 +1,6 @@
 {
   "name": "tailblocks",
-  "homepage": "https://test-tailblocks.vercel.app",
+  "homepage": "https://tailwindcss-kit.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
